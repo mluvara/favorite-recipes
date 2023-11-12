@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: darkcyan;
+}
+body{
+    background-color: white;
+}
+ul{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+.one ,.two ,.three{
+    text-decoration: transparent;
+    color: purple;
+}
